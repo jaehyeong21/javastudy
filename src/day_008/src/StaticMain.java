@@ -20,5 +20,6 @@ public class StaticMain {
 
         StaticTest.num2 = 30;
         System.out.println(StaticTest.num2);
+        System.out.println("test");
     }
 }
