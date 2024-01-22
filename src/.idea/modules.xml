@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day001.iml" filepath="$PROJECT_DIR$/day001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day004/day004.iml" filepath="$PROJECT_DIR$/day004/day004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_004/day_004.iml" filepath="$PROJECT_DIR$/day_004/day_004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_005/day_005.iml" filepath="$PROJECT_DIR$/day_005/day_005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_006/day_006.iml" filepath="$PROJECT_DIR$/day_006/day_006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_007/day_007.iml" filepath="$PROJECT_DIR$/day_007/day_007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_008/day_008.iml" filepath="$PROJECT_DIR$/day_008/day_008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day__006/day__006.iml" filepath="$PROJECT_DIR$/day__006/day__006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game/game.iml" filepath="$PROJECT_DIR$/game/game.iml" />
+    </modules>
+  </component>
+</project>
